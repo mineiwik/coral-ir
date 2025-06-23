@@ -66,10 +66,6 @@
         [
           "starved_thermal|117585000|70700000|fca5e9c6-f904-4f53-b447-fd5871fb0ba1|3b1e25bb-0e43-4d64-8f57-cb888e96fe44|F.Cu",
           ""
-        ],
-        [
-          "starved_thermal|118220000|71820000|fca5e9c6-f904-4f53-b447-fd5871fb0ba1|cff7e9e9-14c8-4342-a4ea-4958f5085c50|F.Cu",
-          ""
         ]
       ],
       "meta": {
